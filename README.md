@@ -15,4 +15,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 </div> 
+<div>
+   <h1>Descripccion</h1>
+   <p>
+     Aplicacion orientada a manejar una biblioteca estudiantil, con perfiles los cuales cuentan con rangos los cuales definen las acciones que puede realizar el usuario, con control total del stock e metodos de identificacion de libros por temas como: Escritor / Titulo /Numero de itdentificacion / Clase / Etc.
+      Utilizando React para el front end y Node para el back end.
+   </p>
+</div>
 
