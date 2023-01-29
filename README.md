@@ -25,6 +25,6 @@
 <div>
 <h1 align="center">Ver Mas</h1>
    <p align="center">
-   Si te interesa estar al tanto de este proyecto, puedes entrar al  Notio ( <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F45%2FNotion_app_logo.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ANotion_app_logo.png&tbnid=MhaJnWUdgNpfTM&vet=12ahUKEwjczpPMoez8AhV8CLkGHSNnDP0QMygAegUIARC5AQ..i&docid=148aV9KwVodI7M&w=512&h=512&itg=1&q=logo%20notion&ved=2ahUKEwjczpPMoez8AhV8CLkGHSNnDP0QMygAegUIARC5AQ" width="100" align="center"/>). Donde esta dispnible la bitacora del proyecto.
+   Si te interesa estar al tanto de este proyecto, puedes entrar al  Notio ( <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fnotion-black-logo%2F147102&psig=AOvVaw0ENVUJjjEh--SfsVJlk3NO&ust=1675063944039000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDt5syh7PwCFQAAAAAdAAAAABAZ" width="100" align="center"/>). Donde esta dispnible la bitacora del proyecto.
    </p>
 </div>
