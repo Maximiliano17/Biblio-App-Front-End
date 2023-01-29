@@ -22,4 +22,9 @@
       Utilizando React para el front end y Node para el back end.
    </p>
 </div>
-
+<div>
+<h1 align="center">Ver Mas</h1>
+   <p align="center">
+   Si te interesa estar al tanto de este proyecto, puedes entrar al  Notio ( <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F45%2FNotion_app_logo.png&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ANotion_app_logo.png&tbnid=MhaJnWUdgNpfTM&vet=12ahUKEwjczpPMoez8AhV8CLkGHSNnDP0QMygAegUIARC5AQ..i&docid=148aV9KwVodI7M&w=512&h=512&itg=1&q=logo%20notion&ved=2ahUKEwjczpPMoez8AhV8CLkGHSNnDP0QMygAegUIARC5AQ" width="100" align="center"/>). Donde esta dispnible la bitacora del proyecto.
+   </p>
+</div>
